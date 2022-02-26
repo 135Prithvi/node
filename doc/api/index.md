@@ -13,7 +13,8 @@
 * [Assertion testing](assert.md)
 * [Asynchronous context tracking](async_context.md)
 * [Async hooks](async_hooks.md)
-* [Buffer](buffer.md)
+* [Buffer](buffer.md) 
+<!-- * Fuck You Cunt -->
 * [C++ addons](addons.md)
 * [C/C++ addons with Node-API](n-api.md)
 * [C++ embedder API](embedding.md)
